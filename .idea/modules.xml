@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TP0BDH11.iml" filepath="$PROJECT_DIR$/TP0BDH11.iml" group="TP0BDH11" />
+      <module fileurl="file://$PROJECT_DIR$/TVBOX.iml" filepath="$PROJECT_DIR$/TVBOX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="TP0BDH11/app" />
+    </modules>
+  </component>
+</project>
